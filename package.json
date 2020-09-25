@@ -1,0 +1,8 @@
+{
+    "name": "pulumi-lab2-webserver",
+    "main": "index.js",
+    "dependencies": {
+        "@pulumi/pulumi": "^2.0.0",
+        "@pulumi/gcp": "^3.0.0"
+    }
+}
